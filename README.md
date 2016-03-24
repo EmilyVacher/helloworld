@@ -1,3 +1,6 @@
 French
-Spanish
+Spanglish
 Greek
+Japanese
+Italian 
+Mandarin
